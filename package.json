@@ -1,0 +1,20 @@
+{
+  "name": "ReactIn7Steps",
+  "version": "1.0.0",
+  "description": "This is a demo app to show you how to create a simple react app in 7 steps. <br/> Check the commit starting with \"Step x\" to show exactly what is done in each step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiqing881215/ReactIn7Steps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiqing881215/ReactIn7Steps/issues"
+  },
+  "homepage": "https://github.com/shiqing881215/ReactIn7Steps#readme"
+}
