@@ -3,8 +3,13 @@ Check the commit starting with "Step x" to show exactly what is done in each ste
 
 Set up <br/>
 Run "npm install"
-<br/>
+<br/><br/>
 
+Optional <br/>
 Compile <br/>
 Run "npm run compile"
+<br/><br/>
 
+Usage<br/>
+Start the development server <br/>
+Run "npm start"
