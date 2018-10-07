@@ -3,3 +3,8 @@ Check the commit starting with "Step x" to show exactly what is done in each ste
 
 Set up <br/>
 Run "npm install"
+<br/>
+
+Compile <br/>
+Run "npm run compile"
+
